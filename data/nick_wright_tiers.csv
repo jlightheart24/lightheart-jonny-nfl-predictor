@@ -1,0 +1,198 @@
+season,week,tier,tier_name,team
+2026,9,13,"Eliminated",LAC
+2026,9,13,"Eliminated",TEN
+2026,9,13,"Eliminated",MIA
+2026,9,13,"Eliminated",NYJ
+2026,9,13,"Eliminated",IND
+2026,9,12,"Facing Elimiation",PHI
+2026,9,12,"Facing Elimiation",HOU
+2026,9,11,"My Name is Marshall",ARI
+2026,9,11,"My Name is Marshall",WAS
+2026,9,11,"My Name is Marshall",BAL
+2026,9,10,"The NFC South",TB
+2026,9,10,"The NFC South",NO
+2026,9,10,"The NFC South",CAR
+2026,9,10,"The NFC South",ATL
+2026,9,9,"In the Same Neighborhood",DAL
+2026,9,9,"In the Same Neighborhood",LV
+2026,9,8,"Still Very Skeptical",NYG
+2026,9,8,"Still Very Skeptical",CLE
+2026,9,7,"Still Slightly Skeptical",MIN
+2026,9,7,"Still Slightly Skeptical",PIT
+2026,9,6,"Undeniable Upside",GB
+2026,9,6,"Undeniable Upside",NE
+2026,9,6,"Undeniable Upside",LA
+2026,9,5,"Adam Sandler",CIN
+2026,9,5,"Adam Sandler",DET
+2026,9,4,"Pretty Clear Flaw",KC
+2026,9,4,"Pretty Clear Flaw",DEN
+2026,9,4,"Pretty Clear Flaw",SEA
+2026,9,3,"That one Meme",JAX
+2026,9,3,"That one Meme",BUF
+2026,9,2,"What if they Get Healthy",SF
+2026,9,1,"I Now Understand",CHI
+
+2026,8,1,"The 4th Trilogy", SEA
+2026,8,1,"The 4th Trilogy", SF
+2026,8,2,"Parallel Parking", BUF
+2026,8,3,"Excellent Teams, Obvious Concerns", KC
+2026,8,3,"Excellent Teams, Obvious Concerns", DEN
+2026,8,4,"Check Almost All the Boxes", CIN
+2026,8,4,"Check Almost All the Boxes", JAX
+2026,8,4,"Check Almost All the Boxes", CHI
+2026,8,5,"Hallmark Movie", MIN
+2026,8,6,"Might Be Missing One Piece", DET
+2026,8,6,"Might Be Missing One Piece", GB
+2026,8,6,"Might Be Missing One Piece", NE
+2026,8,7,"Teetering on the Brink", BAL
+2026,8,7,"Teetering on the Brink", LA
+2026,8,8,"There's Definetly a Case", NYG
+2026,8,8,"There's Definetly a Case", ATL
+2026,8,8,"There's Definetly a Case", PIT
+2026,8,8,"There's Definetly a Case", CLE
+2026,8,9,"Depends on the Week", TB
+2026,8,9,"Depends on the Week", LV
+2026,8,9,"Depends on the Week", HOU
+2026,8,9,"Depends on the Week", CAR
+2026,8,9,"Depends on the Week", DAL
+2026,8,10,"But Their Division!", WAS
+2026,8,10,"But Their Division!", NO
+2026,8,10,"But Their Division!", PHI
+2026,8,11,"Facing Elimination", LAC
+2026,8,11,"Facing Elimination", ARI
+2026,8,11,"Facing Elimination", NYJ
+2026,8,11,"Facing Elimination", IND
+2026,8,12,"Eliminated",MIA
+2026,8,12,"Eliminated",TEN
+
+2026,7,1,"We Know How This Ends",SF
+2026,7,2,"Hiding in Plain Sight",KC
+2026,7,3,"Partial Juggernauts",MIN
+2026,7,3,"Partial Juggernauts",BUF
+2026,7,4,"At Their Best...",JAX
+2026,7,4,"At Their Best...",CIN
+2026,7,4,"At Their Best...",CHI
+2026,7,4,"At Their Best...",GB
+2026,7,5,"Very Obvious Path",NE
+2026,7,5,"Very Obvious Path",BAL
+2026,7,5,"Very Obvious Path",SEA
+2026,7,6,"Polar Opposites", DET
+2026,7,6,"Polar Opposites", DEN
+2026,7,7,"Very Different 2-4",LA
+2026,7,7,"Very Different 2-4",HOU
+2026,7,8,"Slowly Earning Some Respect",PIT
+2026,7,8,"Slowly Earning Some Respect",CAR
+2026,7,8,"Slowly Earning Some Respect",CLE
+2026,7,9,"Striving for Mediocrity",LV
+2026,7,9,"Striving for Mediocrity",NYG
+2026,7,9,"Striving for Mediocrity",DAL
+2026,7,9,"Striving for Mediocrity",ATL
+2026,7,10,"Can Win, Likely Won't",ARI
+2026,7,10,"Can Win, Likely Won't",NYJ
+2026,7,10,"Can Win, Likely Won't",NO
+2026,7,10,"Can Win, Likely Won't",PHI
+2026,7,11,"The Hottest of Seats",IND
+2026,7,11,"The Hottest of Seats",TB
+2026,7,11,"The Hottest of Seats",WAS
+2026,7,12,"Facing Elimination",LAC
+2026,7,13,"Eliminated",TEN
+2026,7,13,"Eliminated",MIA
+
+2026,5,1,"The Commitee Warned You",KC
+2026,5,2,"America's Game of the Week",SF
+2026,5,2,"America's Game of the Week",SEA
+2026,5,3,"Mutltitudes of Excellence",JAX
+2026,5,3,"Mutltitudes of Excellence",CHI
+2026,5,4,"All the Familiar Feeling",BUF
+2026,5,4,"All the Familiar Feeling",BAL
+2026,5,5,"Building Breathing Room",LV
+2026,5,5,"Building Breathing Room",MIN
+2026,5,6,"Should Be Way Better",LA
+2026,5,6,"Should Be Way Better",CIN
+2026,5,6,"Should Be Way Better",DEN
+2026,5,7,"Race to 30... or 35",DET
+2026,5,7,"Race to 30... or 35",DAL
+2026,5,8,"You Have our Attention",ATL
+2026,5,8,"You Have our Attention",CAR
+2026,5,8,"You Have our Attention",IND
+2026,5,9,"Everything's on the Table",PHI
+2026,5,10,"Decidedly Mediocre",NE
+2026,5,10,"Decidedly Mediocre",GB
+2026,5,10,"Decidedly Mediocre",PIT
+2026,5,10,"Decidedly Mediocre",NO
+2026,5,11,"Not the Standings",NYG
+2026,5,11,"Not the Standings",CLE
+2026,5,12,"Briefly Tricked Us",ARI
+2026,5,12,"Briefly Tricked Us",NYJ
+2026,5,12,"Briefly Tricked Us",WAS
+2026,5,13,"Hot Seat Season",LAC
+2026,5,13,"Hot Seat Season",TB
+2026,5,14,"Facing Elimination",HOU
+2026,5,15,"Eliminated",MIA
+2026,5,15,"Eliminated",TEN
+
+2026,4,1,"Once Again, The Standard",KC
+2026,4,2,"Deep in their Bags",SF
+2026,4,3,"Top to Bottom Excellent",SEA
+2026,4,3,"Top to Bottom Excellent",BUF
+2026,4,4,"Strong Septembers",CIN
+2026,4,4,"Strong Septembers",BAL
+2026,4,4,"Strong Septembers",JAX
+2026,4,4,"Strong Septembers",DEN
+2026,4,5,"You Can see the Vision.",LA
+2026,4,5,"You Can see the Vision.",CHI
+2026,4,6,"Reason for Concern",PHI
+2026,4,6,"Reason for Concern",DET
+2026,4,6,"Reason for Concern",DAL
+2026,4,7,"Not the Standings",MIN
+2026,4,7,"Not the Standings",LV
+2026,4,8,"Keeping my Eye on it",NO
+2026,4,8,"Keeping my Eye on it",CAR
+2026,4,8,"Keeping my Eye on it",PIT
+2026,4,9,"Squint and you can See it",HOU
+2026,4,9,"Squint and you can See it",IND
+2026,4,9,"Squint and you can See it",ATL
+2026,4,10,"Tough Watches",NE
+2026,4,10,"Tough Watches",NYG
+2026,4,10,"Tough Watches",CLE
+2026,4,11,"Climmer of Hope",ARI
+2026,4,11,"Climmer of Hope",NYJ
+2026,4,11,"Climmer of Hope",WAS
+2026,4,12,"Might just be Bad",LAC
+2026,4,12,"Might just be Bad",TB
+2026,4,12,"Might just be Bad",GB
+2026,4,13,"Facing Elimination",TEN
+2026,4,13,"Facing Elimination",MIA
+
+2026,0,1,"The Committee Can't Decide",SEA
+2026,0,1,"The Committee Can't Decide",LA
+2026,0,2,"Is the Grass Greemer",BUF
+2026,0,2,"Is the Grass Greemer",BAL
+2026,0,3,"Doubt Them at Your Own Peril",KC
+2026,0,4,"Measuring Sticks",CHI
+2026,0,4,"Measuring Sticks",NE
+2026,0,5,"Prove it to Us",DEN
+2026,0,5,"Prove it to Us",JAX
+2026,0,6,"High Celing Low Floor",DAL
+2026,0,6,"High Celing Low Floor",PHI
+2026,0,7,"Feels Like Something is Missing",DET
+2026,0,7,"Feels Like Something is Missing",GB
+2026,0,8,"Can It All Come Together",CIN
+2026,0,8,"Can It All Come Together",LAC
+2026,0,8,"Can It All Come Together",HOU
+2026,0,9,"Concerning Camps",WAS
+2026,0,9,"Concerning Camps",SF
+2026,0,10,"The NFC South",TB
+2026,0,10,"The NFC South",ATL
+2026,0,10,"The NFC South",NO
+2026,0,10,"The NFC South",CAR
+2026,0,11,"Could be OK!",NYG
+2026,0,11,"Could be OK!",IND
+2026,0,11,"Could be OK!",PIT
+2026,0,11,"Could be OK!",MIN
+2026,0,12,"History Says...",MIA
+2026,0,12,"History Says...",CLE
+2026,0,12,"History Says...",ARI
+2026,0,12,"History Says...",NYJ
+2026,0,12,"History Says...",LV
+2026,0,12,"History Says...",TEN

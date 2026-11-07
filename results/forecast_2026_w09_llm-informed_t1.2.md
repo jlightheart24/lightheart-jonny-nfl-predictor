@@ -1,0 +1,21 @@
+# LLM forecast (informed): 2026 week 9
+
+Generated 2026-11-04 18:08, before kickoff. Model: Qwen3.8-Flash-Next, temperature 1.2. The model was told the matchup, NFL.com power rank and record, and Nick Wright's tier.
+
+| away_team   | home_team   |   p_home | pick   |   confidence | reason                                                                                                                                                                    |
+|:------------|:------------|---------:|:-------|-------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| DET         | MIA         |    0.170 | DET    |        0.830 | Detroit is far more effective both at 5-2 and in the power rankings/tiers than a 1-6 Dolphins team at home, making the Lions the clear pick despite the Dolphins hosting. |
+| NYJ         | KC          |    0.820 | KC     |        0.820 | The Chiefs have a much stronger record and evaluation ranking, making Kansas City the clear favorite at home.                                                             |
+| LV          | SF          |    0.740 | SF     |        0.740 | San Francisco’s stronger power-ranking position, better record, and home-field advantage make it the likely winner over Las Vegas.                                        |
+| HOU         | LAC         |    0.280 | HOU    |        0.720 | Houston has a significantly better power ranking and record, while the 0-7 Chargers are one of the NFL's weakest teams despite home-field advantage.                      |
+| TB          | CHI         |    0.680 | CHI    |        0.680 | Chicago’s better season record and top-tier national power-rank standing, plus home-field advantage, give it the clear edge over a mediocre 3-5 Tampa Bay squad.          |
+| JAX         | BAL         |    0.340 | JAX    |        0.660 | The Jaguars are ranked much higher with a better record, and their elite tier projection outweighs the Ravens' home-field advantage.                                      |
+| NYG         | PHI         |    0.340 | NYG    |        0.660 | The Giants enter with a better record and ranking than a struggling Eagles team, giving them a clearer edge despite Philadelphia’s home-field advantage.                  |
+| DEN         | CAR         |    0.360 | DEN    |        0.640 | Denver’s stronger rankings, record, and tier make it the favorite despite Carolina’s home-field advantage.                                                                |
+| DAL         | IND         |    0.370 | DAL    |        0.630 | Dallas has the clearer edge in both the week 9 Power Rankings and Wright’s tiers, despite Indianapolis having home-field advantage.                                       |
+| CLE         | NO          |    0.380 | CLE    |        0.620 | The Browns are the more competent team by both power rankings and tier placement, making them the likely winners despite playing at New Orleans.                          |
+| ARI         | SEA         |    0.620 | SEA    |        0.620 | Seattle is ranked higher, holds a tier-edge over Arizona, and has the home-field advantage.                                                                               |
+| BUF         | MIN         |    0.420 | BUF    |        0.580 | Buffalo’s #1 power ranking and stronger tier suggest they are the better team, with home-field advantage keeping Minnesota close but not favored.                         |
+| GB          | NE          |    0.560 | NE     |        0.560 | New England has a slight power-ranking edge and plays at home.                                                                                                            |
+| CIN         | ATL         |    0.450 | CIN    |        0.550 | Cincinnati enters with a stronger record and significantly higher power ratings than Atlanta, giving it the edge despite the road game.                                   |
+| LA          | WAS         |    0.450 | LA     |        0.550 | Los Angeles has the better record and higher power-ranking placement, giving it a narrow edge even with Washington's home-field advantage.                                |
